@@ -2,11 +2,12 @@
 Climate change in the United States
 
 ## Summary
-This project will analyze climate data from major U.S. cities, representing various regions, with two major goals. The first will be to create visualizations to convey to the public any patterns in the data. The second will be to explore regional differences to better understand local impacts of climate change. We will use data on temperature, precipitation, and wind speed from NOAA’a web site.
+This project will look at impacts of climate change in the U.S., specifically in terms of biodiversity, as evidenced by data from national parks. Currently, the focus is on Acadia National Park, Maine.
 
 ## Contribution
+Enhance our understanding of effects of climate change on biodiversity.
 Develop interesting visualizations to clearly communicate findings.
-Approaching climate data from a more local perspective may help to better understand how different communities have been impacted.
 
 ## Challenges
-Many studies of climate change have already been conducted and there are a lot of great climate data visualizations out there. How will this project contribute something new?
+How to approach statistical analysis of multiple overlapping vector layers?
+Many studies of climate change have already been conducted and there are a lot of great climate data visualizations out there. This project will attempt to contribute something new by creating visualizations and conducting statistical analyses to help answer questions regarding effects of climate change on species’ ranges.
